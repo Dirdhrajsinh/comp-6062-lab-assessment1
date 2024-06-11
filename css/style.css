@@ -1,0 +1,24 @@
+.heading1 {
+    color: #ff0000;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.heading2 {
+    color: #8142f5;
+}
+
+img {
+    border-radius: 15px;
+}
+
+footer {
+    background-color: #8142f5;
+    color: #fff;
+    padding: 25px;
+    margin-top: 50px;
+}
+
+
+
+
